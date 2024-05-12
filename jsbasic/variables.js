@@ -19,6 +19,7 @@ console.log(password)
 console.log(numbert)
 
 //or
+// console is used in js to  print out value
 
 console.table([email, password, numbert, home])
 
