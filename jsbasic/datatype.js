@@ -36,3 +36,12 @@ let myObj = {
  console.log(typeof id);
 
  // null ka datatype by typeof function is OBJECT******
+
+
+ //++++++++++++++++++++++++++++++++++++
+
+ // stack memory(primitive), Heap memory(Non-Primitive)
+ // skack memoery --> the variable you declare you get a copyn of that variable
+ // Heap memory  ---> when you get heap memory you get the refrence of the original value what ever you change get change in the ral value
+ // what ever you change in stack memory cahnge in copy and whatever you change in heap memory will get change in the real on also
+ 
